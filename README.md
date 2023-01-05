@@ -1,1 +1,1 @@
-# Zero Mistakes (Text Editor)
+# Just Another Text Editor
