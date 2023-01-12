@@ -3,7 +3,7 @@
 
 J.A.T.E. or Just Another Text Editor is a web text editor built with Webpack. It can be downloaded and installed to your computer for offline use.
 
-[Use the J.A.T.E.!](https://safe-retreat-08339.herokuapp.com/)
+[Use J.A.T.E.!](https://safe-retreat-08339.herokuapp.com/)
 
 ## Table of Contents
 
@@ -42,15 +42,11 @@ Now listening http://localhost:3000
 
 ## Screenshots
 
-![]()
-
-![]()
-
-![]()
-
-![]()
-
-![]()
+![first](./img/jate-3.png)
+##
+![Local storage](./img/jate-2.png)
+##
+![Service](./img/jate.png)
 
 ## Contact Me
 - Github: [JBlay10](https://github.com/JBlay10)

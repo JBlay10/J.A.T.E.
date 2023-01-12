@@ -4,11 +4,11 @@ const butInstall = document.getElementById('buttonInstall');
 // Event handler to the `beforeinstallprompt` event
 window.addEventListener('beforeinstallprompt', (event) => {
     event.preventDefault();
-    // console.log('👍', 'beforeinstallprompt', event);
+    console.log('👍', 'beforeinstallprompt', event);
     // window.deferredPrompt = event;
     // butInstall.classList.toggle('hidden', false);
     butInstall.style.visibility = 'visible';
-    butInstall.textContent = 'Install'
+    butInstall.textContent = 'Install';
 });
 
 // Click event handler on the `butInstall` element
@@ -19,7 +19,7 @@ butInstall.addEventListener('click', async () => {
     // window.deferredPrompt = null;
     // butInstall.classList.toggle('hidden', true);
     butInstall.setAttribute('disabled', true);
-    butInstall.textContent = "Installed";
+    butInstall.textContent = 'Installed';
 });
 
 // Handler for the `appinstalled` event
