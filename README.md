@@ -3,7 +3,7 @@
 
 J.A.T.E. or Just Another Text Editor is a web text editor built with Webpack. It can be downloaded and installed to your computer for offline use.
 
-[Create and save your own notes today!](https://git.heroku.com/agile-tor-32518.git)
+[Use the J.A.T.E.!](https://safe-retreat-08339.herokuapp.com/)
 
 ## Table of Contents
 
@@ -21,7 +21,14 @@ npm i
 
 ## Usage and Test
 
-**After the _npm_ has been installed, to initialize server:** 
+**After the _npm_ has been installed** 
+
+To get dist folder:
+```
+npm run build
+```
+
+To initialize server:
 ```
 npm run start:dev
 ```
