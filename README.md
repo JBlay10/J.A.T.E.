@@ -47,6 +47,10 @@ Now listening http://localhost:3000
 ![Local storage](./img/jate-2.png)
 ##
 ![Service](./img/jate.png)
+##
+![offline](./img/jate-4.png)
+##
+![installation](./img/jate-5.png)
 
 ## Contact Me
 - Github: [JBlay10](https://github.com/JBlay10)
